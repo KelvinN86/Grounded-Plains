@@ -4,6 +4,8 @@ GameMaker Studio 2 IDE needed to run game as it cannot be exported on the free v
 
 
 **Bibliography/References Used:**
+
+
 Shaun Spalding (YouTube, 2020) Beginner's Guide to GameMaker Studio 2, URL:
 https://www.youtube.com/watch?v=nBCDzE9MDbk
 
