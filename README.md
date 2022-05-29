@@ -1,12 +1,12 @@
 # Grounded-Plains
 
-##**GameMaker Studio 2 IDE needed to run game as it cannot be exported on the free version off the program.**
+## **GameMaker Studio 2 IDE needed to run game as it cannot be exported on the free version off the program.**
 
 
 
 
 
-###**Bibliography/References Used:**
+### **Bibliography/References Used:**
 
 
 Shaun Spalding (YouTube, 2020) Beginner's Guide to GameMaker Studio 2, URL:
